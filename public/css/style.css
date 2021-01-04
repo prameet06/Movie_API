@@ -1,0 +1,232 @@
+.navbar {
+    background-color: rgb(18, 18, 18);
+}
+
+body {
+    background-color: black;
+}
+
+#nav-logo {
+    margin-left: 7%;
+}
+
+#navbar-logo {
+    height: 35px;
+    width: 67px;
+}
+
+#nav-toggler {
+    margin-right: 80%;
+}
+
+#nav-dropdown {
+    margin-left: 22%;
+    margin-top: -2%;
+    height: 2.5rem;
+    width: 4%;
+    background-color: whitesmoke;
+    list-style-type: none;
+    border-radius: 14%;
+}
+
+#search {
+    margin-top: -2%;
+    margin-right: auto;
+    width: 57%;
+}
+
+span#button-text {
+    color: white;
+}
+
+#navbarDropdown {
+    color: black;
+}
+
+#searchButton {
+    background-color: white;
+}
+
+.fas.fa-search {
+    color: black;
+}
+
+#banner {
+    background-color: black;
+    margin-bottom: 1%;
+    margin-top: 1%
+}
+
+#banner-space {
+    background-color: black;
+}
+
+#banner-image {
+    margin-left: 19%;
+}
+
+#grid-1 {
+    background-color: black;
+}
+
+#Up-Next {
+    color: gold;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+#A {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+#A-1 {
+    width: 100%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+
+#a-Row {
+    display: flow-root;
+    background-color: rgb(8, 8, 8);
+}
+
+img.ipc-image {
+    height: 135px;
+    width: 89px;
+}
+
+#circle {
+    background-color: white;
+}
+
+h6 {
+    font-size: 53%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+
+p {
+    font-size: 63%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+
+#page-content {
+    background-color: rgb(8, 8, 8);
+}
+
+#title-text {
+    font-size: 350%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    margin-left: 2%;
+}
+
+#page-content {
+    margin: 0 auto;
+    width: 84%;
+    height: 42.5rem;
+}
+
+#imdb-rating-text {
+    font-size: 145%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    color: white;
+    position: relative;
+    left: 65%;
+    top: -3.5rem;
+}
+
+#imdb-rating-value-text {
+    font-size: 134%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    position: relative;
+    left: 69%;
+    top: -2.5rem;
+}
+
+#rotten-tomatoes-rating-text {
+    font-size: 145%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    color: white;
+    position: relative;
+    left: 76%;
+    top: -7.5rem;
+}
+
+#rotten-tomatoes-rating-value-text {
+    font-size: 134%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    position: relative;
+    left: 81%;
+    top: -6.5rem;
+}
+
+.meta-data-list-item {
+    color: rgb(151, 158, 153);
+    display: inline;
+    position: relative;
+    top: -4.5rem;
+    left: 1%;
+}
+
+#movie-poster {
+    position: relative;
+    left: 3%;
+    top: -2.5rem;
+}
+
+#movie-plot-text {
+    font-size: 97%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    position: relative;
+    top: -21.5rem;
+    left: 20%;
+    text-align: center;
+    padding-right: 21%;
+}
+
+#actors {
+    position: relative;
+    left: 18%;
+    top: -10.5rem;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 102%;
+}
+
+#footer {
+    background-color: black;
+    margin-left: 33%;
+    margin-top: 4%;
+}
+
+#facebook-icon {
+    padding-right: 57%;
+    color: white;
+    margin-left: -49%;
+}
+
+#twitter-icon {
+    padding-right: 64%;
+    color: white;
+}
+
+#instagram-icon {
+    color: white;
+}
