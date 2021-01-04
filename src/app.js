@@ -20,7 +20,9 @@ app.use(express.static(publicDirectoryPath));
 app.get('', (req, res) => {
     res.render('index');
 })
-
+app.get('result', (req, res) => {
+    res.render('result');
+});
 
 app.listen(port, () => {
     console.log('Server is up on port' + port);
