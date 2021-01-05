@@ -1,6 +1,6 @@
 const request = require('request');
 const movie = (name, callback) => {
-    const url = `http://www.omdbapi.com/?apikey=6fc12cbc&t=${encodeURIComponent(name)};`
+    const url = `http://www.omdbapi.com/?apikey=6fc12cbc&t=${encodeURIComponent(name)}`;
 
     request({ url, json: true }, (error, { body }) => {
         if (error) {
@@ -22,3 +22,5 @@ const movie = (name, callback) => {
         }
     })
 }
+
+module.exports = movie;
